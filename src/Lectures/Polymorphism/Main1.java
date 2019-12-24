@@ -1,4 +1,4 @@
-package Polymorphism;
+package Lectures.Polymorphism;
 
 class Movie {
     private String name;

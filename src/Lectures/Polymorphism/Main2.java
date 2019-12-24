@@ -1,4 +1,4 @@
-package Polymorphism;
+package Lectures.Polymorphism;
 
 class Car {
     private boolean engine;
