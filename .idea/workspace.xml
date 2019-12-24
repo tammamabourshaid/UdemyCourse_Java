@@ -35,6 +35,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1URZWUXXVHUqKAM4FKIoZZK022Q" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -47,9 +50,10 @@
     <property name="Repository.Attach.JavaDocs" value="true" />
     <property name="Repository.Attach.Sources" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java_intake04" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.23704867" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -67,7 +71,7 @@
       <recent name="Ex01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.MinimumElementChallenge">
     <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lectures.Arrays.Arrays" />
       <module name="Udemy_Java" />
@@ -135,8 +139,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.MinimumElementChallenge" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.ReferencesVsValueTypes" />
         <item itemvalue="Application.ArraysChallenge" />
         <item itemvalue="Application.Arrays" />
@@ -220,10 +224,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="449" y="143" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1576222634723" />
-    <state x="956" y="306" width="393" height="223" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577010974184">
+    <state x="956" y="306" width="393" height="223" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577206859348">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="956" y="306" width="393" height="223" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1577010974184" />
+    <state x="956" y="306" width="393" height="223" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1577206859348" />
     <state x="872" y="130" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1576616441008">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -252,22 +256,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577084072958" />
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1577205375520">
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1577206761698">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577205375520" />
-    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1577205375520">
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577206761698" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1577206761698">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577205375520" />
-    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1577205375520">
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577206761698" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1577206761698">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577205375520" />
-    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1577205375520">
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577206761698" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1577206761698">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577205375520" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577206761698" />
     <state width="1493" height="274" key="GridCell.Tab.1.bottom" timestamp="1577204499537">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
