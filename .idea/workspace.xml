@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6183f21d-eec4-4df4-b9b0-520f69e32458" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lectures/Arrays/ArrayList/GroceryList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectures/Arrays/ArrayList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectures/Arrays/ArrayResizeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectures/Arrays/ReverseArrayChallenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Polymorphism/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Polymorphism/Ford.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Polymorphism/Forgetable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Polymorphism/Holden.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Polymorphism/IndependenceDay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Polymorphism/Jaws.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Polymorphism/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Polymorphism/Main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Polymorphism/MazeRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Polymorphism/Mitsubishi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Polymorphism/Movie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Polymorphism/StarWars.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Polymorphism/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lectures/Polymorphism/Main1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Polymorphism/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Arrays/ArrayList/GroceryList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lectures/Arrays/ArrayList/GroceryList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Arrays/ArrayList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lectures/Arrays/ArrayList/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,6 +214,7 @@
       <workItem from="1577182261675" duration="1317000" />
       <workItem from="1577203330208" duration="1699000" />
       <workItem from="1577206715474" duration="12012000" />
+      <workItem from="1577269297351" duration="2423000" />
     </task>
     <servers />
   </component>
@@ -309,22 +294,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="283" key="GridCell.Tab.-1.right/0.0.1536.824@0.0.1536.824" timestamp="1577220872200" />
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1577229316659">
+    <state width="1493" height="485" key="GridCell.Tab.0.bottom" timestamp="1577272636793">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577229316659" />
-    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1577229316658">
+    <state width="1493" height="485" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577272636793" />
+    <state width="1493" height="485" key="GridCell.Tab.0.center" timestamp="1577272636793">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577229316658" />
-    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1577229316658">
+    <state width="1493" height="485" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577272636793" />
+    <state width="1493" height="485" key="GridCell.Tab.0.left" timestamp="1577272636793">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577229316658" />
-    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1577229316658">
+    <state width="1493" height="485" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577272636793" />
+    <state width="1493" height="485" key="GridCell.Tab.0.right" timestamp="1577272636793">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577229316658" />
+    <state width="1493" height="485" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577272636793" />
     <state width="1493" height="283" key="GridCell.Tab.1.bottom" timestamp="1577228367085">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -369,10 +354,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1577085270954" />
-    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1577203390359">
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1577269299781">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577203390359" />
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577269299781" />
     <state x="882" y="316" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1576349627958">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
