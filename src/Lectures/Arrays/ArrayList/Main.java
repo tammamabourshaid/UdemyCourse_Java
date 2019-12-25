@@ -173,7 +173,7 @@ public class Main {
         ArrayList<String> newArray = new ArrayList<String>();
         newArray.addAll(groceryList.getGroceryList());
 
-        ArrayList<String> nextArray = new ArrayList<String>(groceryList.getGroceryList());
+        ArrayList<String> nextArray = new ArrayList<String>(groceryList.getGroceryList()); //Copy the content of the Array to a NEW Array
 
         String[] myArray = new String[groceryList.getGroceryList().size()];
         myArray = groceryList.getGroceryList().toArray(myArray);
