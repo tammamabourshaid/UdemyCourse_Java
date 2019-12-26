@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6183f21d-eec4-4df4-b9b0-520f69e32458" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercise/InsertObjInArrays/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise/InsertObjInArrays/DataExe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +79,7 @@
       <recent name="Ex01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DataExe">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="DataExe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercise.InsertObjInArrays.DataExe" />
       <module name="Udemy_Java" />
@@ -96,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lectures.Arrays.ArrayListChallenge.Main" />
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lectures.LinkedList.Demo" />
       <module name="Udemy_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lectures.Arrays.ArrayListChallenge.*" />
+          <option name="PATTERN" value="Lectures.LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lectures.AutoBoxingAndUnboxing.Main" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lectures.LinkedList.Main" />
       <module name="Udemy_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lectures.AutoBoxingAndUnboxing.*" />
+          <option name="PATTERN" value="Lectures.LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +133,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise.Main" />
+      <option name="MAIN_CLASS_NAME" value="Lectures.LinkedList.Challenge.Main" />
       <module name="Udemy_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise.InsertObjInArrays.*" />
+          <option name="PATTERN" value="Lectures.LinkedList.Challenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DataExe" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.DataExe" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +216,8 @@
       <workItem from="1577206715474" duration="12012000" />
       <workItem from="1577269297351" duration="2423000" />
       <workItem from="1577277542066" duration="9728000" />
-      <workItem from="1577306427715" duration="5439000" />
+      <workItem from="1577306427715" duration="6902000" />
+      <workItem from="1577351268296" duration="6008000" />
     </task>
     <servers />
   </component>
@@ -311,22 +309,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="283" key="GridCell.Tab.-1.right/0.0.1536.824@0.0.1536.824" timestamp="1577220872200" />
-    <state width="1493" height="212" key="GridCell.Tab.0.bottom" timestamp="1577311635810">
+    <state width="1493" height="212" key="GridCell.Tab.0.bottom" timestamp="1577359146569">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577311635810" />
-    <state width="1493" height="212" key="GridCell.Tab.0.center" timestamp="1577311635809">
+    <state width="1493" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577359146569" />
+    <state width="1493" height="212" key="GridCell.Tab.0.center" timestamp="1577359146569">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577311635809" />
-    <state width="1493" height="212" key="GridCell.Tab.0.left" timestamp="1577311635809">
+    <state width="1493" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577359146569" />
+    <state width="1493" height="212" key="GridCell.Tab.0.left" timestamp="1577359146568">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577311635809" />
-    <state width="1493" height="212" key="GridCell.Tab.0.right" timestamp="1577311635810">
+    <state width="1493" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577359146568" />
+    <state width="1493" height="212" key="GridCell.Tab.0.right" timestamp="1577359146569">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577311635810" />
+    <state width="1493" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577359146569" />
     <state width="1493" height="283" key="GridCell.Tab.1.bottom" timestamp="1577228367085">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -367,14 +365,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="444" y="163" key="caller.chooser.dialog/0.0.1536.824@0.0.1536.824" timestamp="1575493086144" />
-    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1577085270954">
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1577356964161">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1577085270954" />
-    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1577306441679">
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1577356964161" />
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1577351271606">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577306441679" />
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577351271606" />
     <state x="882" y="316" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1576349627958">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
