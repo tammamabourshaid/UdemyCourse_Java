@@ -1,4 +1,4 @@
-package Lectures.Inheritance2;
+package Lectures.Inheritance;
 
 
 public class Fish extends Animal {
