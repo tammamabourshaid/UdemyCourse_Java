@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6183f21d-eec4-4df4-b9b0-520f69e32458" name="Default Changelist" comment="" />
+    <list default="true" id="6183f21d-eec4-4df4-b9b0-520f69e32458" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Lectures/Generic/Introduction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/META-INF/Udemy_Java.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Abstract/Challenge/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lectures/Abstract/Challenge/Node.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,12 +62,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.23704867" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
@@ -78,13 +84,13 @@
       <recent name="Ex01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lectures.InnerClasses.Main" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Introduction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lectures.Generic.Introduction" />
       <module name="Udemy_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lectures.InnerClasses.*" />
+          <option name="PATTERN" value="Lectures.Generic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +98,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lectures.Interface.Exercise.Main" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lectures.Generic.Example.Main" />
       <module name="Udemy_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lectures.Interface.Exercise.*" />
+          <option name="PATTERN" value="Lectures.Generic.Example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lectures.Generic.Challenge.Main" />
+      <module name="Udemy_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lectures.Generic.Challenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,19 +130,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lectures.Abstract.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lectures.InnerClasses.Challenge.Main" />
-      <module name="Udemy_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lectures.InnerClasses.Challenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Introduction" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -219,6 +225,8 @@
       <workItem from="1577351268296" duration="13070000" />
       <workItem from="1577397930039" duration="2760000" />
       <workItem from="1577432947898" duration="5977000" />
+      <workItem from="1577539557172" duration="2694000" />
+      <workItem from="1577565296082" duration="5197000" />
     </task>
     <servers />
   </component>
@@ -230,6 +238,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="495" y="94" key="#ArrayList/0.0.1536.824@0.0.1536.824" timestamp="1577228915194" />
+    <state x="361" y="100" key="#Getter_Template" timestamp="1577568254478">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="100" key="#Getter_Template/0.0.1536.824@0.0.1536.824" timestamp="1577568254478" />
+    <state x="361" y="75" key="#Inspections" timestamp="1577573650595">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="75" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1577573650595" />
     <state x="361" y="75" key="#Project_Structure" timestamp="1577398820566">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -238,10 +254,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="422" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1576433050549" />
-    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1577368516894">
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1577569658725">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1577368516894" />
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1577569658725" />
     <state x="499" y="194" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1577208377637">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -250,6 +266,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="449" y="143" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1576222634723" />
+    <state x="473" y="90" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1577568564254">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="90" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1536.824@0.0.1536.824" timestamp="1577568564254" />
     <state x="631" y="343" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1577308450358">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -314,22 +334,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="283" key="GridCell.Tab.-1.right/0.0.1536.824@0.0.1536.824" timestamp="1577220872200" />
-    <state width="1493" height="212" key="GridCell.Tab.0.bottom" timestamp="1577537592202">
+    <state width="1493" height="212" key="GridCell.Tab.0.bottom" timestamp="1577573688275">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577537592202" />
-    <state width="1493" height="212" key="GridCell.Tab.0.center" timestamp="1577537592202">
+    <state width="1493" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577573688275" />
+    <state width="1493" height="212" key="GridCell.Tab.0.center" timestamp="1577573688275">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577537592202" />
-    <state width="1493" height="212" key="GridCell.Tab.0.left" timestamp="1577537592202">
+    <state width="1493" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577573688275" />
+    <state width="1493" height="212" key="GridCell.Tab.0.left" timestamp="1577573688275">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577537592202" />
-    <state width="1493" height="212" key="GridCell.Tab.0.right" timestamp="1577537592202">
+    <state width="1493" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577573688275" />
+    <state width="1493" height="212" key="GridCell.Tab.0.right" timestamp="1577573688275">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577537592202" />
+    <state width="1493" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577573688275" />
     <state width="1493" height="283" key="GridCell.Tab.1.bottom" timestamp="1577228367085">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -362,10 +382,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="605" height="696" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1577123343523" />
-    <state x="498" y="0" key="SettingsEditor" timestamp="1577398748707">
+    <state x="498" y="0" key="SettingsEditor" timestamp="1577568421403">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577398748707" />
+    <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577568421403" />
     <state x="444" y="163" key="caller.chooser.dialog" timestamp="1575493086145">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -374,10 +394,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1577356964161" />
-    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1577432947163">
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1577565295446">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577432947163" />
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577565295446" />
     <state x="882" y="316" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1576349627958">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -386,10 +406,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="503" y="174" width="871" height="556" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1577141340763" />
-    <state x="499" y="174" key="extract.method.dialog" timestamp="1576184276405">
+    <state x="499" y="174" key="extract.method.dialog" timestamp="1577573562797">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="174" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1576184276405" />
+    <state x="499" y="174" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1577573562797" />
     <state x="477" y="37" key="refactoring.ChangeSignatureDialog" timestamp="1575928306941">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
