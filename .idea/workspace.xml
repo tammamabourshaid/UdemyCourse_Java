@@ -2,152 +2,170 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6183f21d-eec4-4df4-b9b0-520f69e32458" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lectures/lambda/lecture/exercise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Cylinder/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/cylinder/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Cylinder/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/cylinder/Cylinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Cylinder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/cylinder/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/AreaCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/AreaCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/ComplexNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/ComplexNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/DiagonalStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/DiagonalStar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/EqualSumChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/EqualSumChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/EvenDigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/EvenDigitSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/FirstAndLastDigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/FirstAndLastDigitSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/GreatestCommonDivisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/GreatestCommonDivisor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/MinutesToYearsAndDaysCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/MinutesToYearsAndDaysCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/NumberToWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/NumberToWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/PlayingCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/PlayingCat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/PositiveNegativeZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/PositiveNegativeZero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/SharedDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/SharedDigit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/SpeedConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/SpeedConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/SumChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/SumChallenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/TeenNumberChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/TeenNumberChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Inheritance/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/inheritance/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Inheritance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/inheritance/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Inheritance/Outlander.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/inheritance/Outlander.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Inheritance/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/inheritance/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingExercise/OOP/Challenge1/Hamburger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/oop/challenge1/Hamburger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingExercise/OOP/Challenge1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/oop/challenge1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingExercise/OOP/Challenge2/DeluxeBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/oop/challenge2/DeluxeBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingExercise/OOP/Challenge2/Hamburger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/oop/challenge2/Hamburger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingExercise/OOP/Challenge2/HealthyBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/oop/challenge2/HealthyBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingExercise/OOP/Challenge2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/oop/challenge2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/Calc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise/InsertObjInArrays/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/insert_obj_in_arrays/Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise/InsertObjInArrays/DataExe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/insert_obj_in_arrays/DataExe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise/Java01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/Java01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise/Java02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/Java02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise/Java03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/Java03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Abstract/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/abstract_lec/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Abstract/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/abstract_lec/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Abstract/CanFly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/abstract_lec/CanFly.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Abstract/Challenge/ListItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/abstract_lec/challenge/ListItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Abstract/Challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/abstract_lec/challenge/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Abstract/Challenge/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/abstract_lec/challenge/MyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Abstract/Challenge/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/abstract_lec/challenge/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Abstract/Challenge/NodeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/abstract_lec/challenge/NodeList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Abstract/Challenge/SearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/abstract_lec/challenge/SearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Abstract/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/abstract_lec/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Abstract/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/abstract_lec/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Abstract/Parrot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/abstract_lec/Parrot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Abstract/Penguin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/abstract_lec/Penguin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Arrays/ArrayList/GroceryList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/arrays/array_list/GroceryList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Arrays/ArrayList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/arrays/array_list/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Arrays/ArrayListChallenge/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/arrays/array_list_challenge/Contact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Arrays/ArrayListChallenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/arrays/array_list_challenge/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Arrays/ArrayListChallenge/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/arrays/array_list_challenge/MobilePhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Arrays/ArrayResizeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/arrays/ArrayResizeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Arrays/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/arrays/Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Arrays/ArraysChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/arrays/ArraysChallenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Arrays/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/arrays/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Arrays/MinimumElementChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/arrays/MinimumElementChallenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Arrays/ReferencesVsValueTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/arrays/ReferencesVsValueTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Arrays/ReverseArrayChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/arrays/ReverseArrayChallenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/AutoBoxingAndUnboxing/Challenge/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/auto_boxing_and_unboxing/Challenge/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/AutoBoxingAndUnboxing/Challenge/Branch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/auto_boxing_and_unboxing/Challenge/Branch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/AutoBoxingAndUnboxing/Challenge/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/auto_boxing_and_unboxing/Challenge/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/AutoBoxingAndUnboxing/Challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/auto_boxing_and_unboxing/Challenge/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/AutoBoxingAndUnboxing/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/auto_boxing_and_unboxing/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Class/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/class_lec/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Class/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/class_lec/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Composition/Bed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/composition/Bed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Composition/Bedroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/composition/Bedroom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Composition/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/composition/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Composition/Case.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/composition/Case.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Composition/Ceiling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/composition/Ceiling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Composition/Dimensions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/composition/Dimensions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Composition/Lamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/composition/Lamp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Composition/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/composition/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Composition/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/composition/Monitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Composition/Motherboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/composition/Motherboard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Composition/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/composition/PC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Composition/Resolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/composition/Resolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Composition/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/composition/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Composition/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/composition/Wall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Constructor1/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/constructor1/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Constructor1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/constructor1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Constructor2/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/constructor2/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Constructor2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/constructor2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Constructor2/VipPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/constructor2/VipPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Encapsulation/Challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/encapsulation/challenge/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Encapsulation/Challenge/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/encapsulation/challenge/Printer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Encapsulation/EnhancedPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/encapsulation/EnhancedPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Encapsulation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/encapsulation/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Encapsulation/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/encapsulation/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Generic/Challenge/BaseballPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/generic/challenge/BaseballPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Generic/Challenge/FootballPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/generic/challenge/FootballPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Generic/Challenge/League.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/generic/challenge/League.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Generic/Challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/generic/challenge/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Generic/Challenge/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/generic/challenge/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Generic/Challenge/SoccerPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/generic/challenge/SoccerPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Generic/Challenge/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/generic/challenge/Team.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Generic/Example/BaseballPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/generic/example/BaseballPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Generic/Example/FootballPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/generic/example/FootballPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Generic/Example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/generic/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Generic/Example/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/generic/example/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Generic/Example/SoccerPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/generic/example/SoccerPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Generic/Example/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/generic/example/Team.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Generic/Introduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/generic/Introduction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Inheritance/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/inheritance/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Inheritance/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/inheritance/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Inheritance/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/inheritance/Fish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Inheritance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/inheritance/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/InnerClasses/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/inner_classes/Button.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/InnerClasses/Challenge/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/inner_classes/challenge/Album.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/InnerClasses/Challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/inner_classes/challenge/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/InnerClasses/Challenge/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/inner_classes/challenge/Song.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/InnerClasses/Gearbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/inner_classes/Gearbox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/InnerClasses/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/inner_classes/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Interface/Challenge/ISaveable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/interface_lec/challenge/ISaveable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Interface/Challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/interface_lec/challenge/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Interface/Challenge/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/interface_lec/challenge/Monster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Interface/Challenge/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/interface_lec/challenge/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Interface/DeskPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/interface_lec/DeskPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Interface/Exercise/Apparatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/interface_lec/exercise/Apparatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Interface/Exercise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/interface_lec/exercise/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Interface/Exercise/Pc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/interface_lec/exercise/Pc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Interface/ITelephone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/interface_lec/ITelephone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Interface/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/interface_lec/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Interface/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/interface_lec/MobilePhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Lec/DigitSumChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/lec/DigitSumChallenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Lec/ForStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/lec/ForStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Lec/MinAndMaxChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/lec/MinAndMaxChallenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Lec/NumberOfDaysInMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/lec/NumberOfDaysInMonth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Lec/Overload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/lec/Overload.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Lec/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/lec/Switch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Lec/WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/lec/WhileLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Lec/getDurationString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/lec/getDurationString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/LinkedList/Challenge/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/linked_list/challenge/Album.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/LinkedList/Challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/linked_list/challenge/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/LinkedList/Challenge/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/linked_list/challenge/Song.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/LinkedList/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/linked_list/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/LinkedList/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/linked_list/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/LinkedList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/linked_list/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Polymorphism/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/polymorphism/Main1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/polymorphism/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/ReferenceObjectInstanceClass/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/reference_object_instance_class/House.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/ReferenceObjectInstanceClass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/reference_object_instance_class/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/CodingExercise/Cylinder/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/CodingExercise/Cylinder/Cylinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/CodingExercise/Cylinder/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/CodingExercise/Examples/AreaCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/CodingExercise/Examples/ComplexNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/CodingExercise/Examples/DiagonalStar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/CodingExercise/Examples/EqualSumChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/CodingExercise/Examples/EvenDigitSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/CodingExercise/Examples/FirstAndLastDigitSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/CodingExercise/Examples/GreatestCommonDivisor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/CodingExercise/Examples/MinutesToYearsAndDaysCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/CodingExercise/Examples/NumberToWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/CodingExercise/Examples/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/CodingExercise/Examples/PlayingCat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/CodingExercise/Examples/PositiveNegativeZero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/CodingExercise/Examples/SharedDigit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/CodingExercise/Examples/SpeedConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/CodingExercise/Examples/SumChallenge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/CodingExercise/Examples/TeenNumberChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/CodingExercise/Inheritance/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/CodingExercise/Inheritance/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/CodingExercise/Inheritance/Outlander.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/CodingExercise/Inheritance/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/CodingExercise/OOP/Challenge1/Hamburger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/CodingExercise/OOP/Challenge1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/CodingExercise/OOP/Challenge2/DeluxeBurger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/CodingExercise/OOP/Challenge2/Hamburger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/CodingExercise/OOP/Challenge2/HealthyBurger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/CodingExercise/OOP/Challenge2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Exercise/Calc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Exercise/Calc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Exercise/InsertObjInArrays/Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Exercise/InsertObjInArrays/DataExe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Exercise/Java01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Exercise/Java01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Exercise/Java02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Exercise/Java02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Exercise/Java03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Exercise/Java03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Exercise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Exercise/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Abstract/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Abstract/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Abstract/CanFly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Abstract/Challenge/ListItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Abstract/Challenge/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Abstract/Challenge/MyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Abstract/Challenge/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Abstract/Challenge/NodeList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Abstract/Challenge/SearchTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Abstract/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Abstract/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Abstract/Parrot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Abstract/Penguin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Arrays/ArrayList/GroceryList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Arrays/ArrayList/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Arrays/ArrayListChallenge/Contact.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Arrays/ArrayListChallenge/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Arrays/ArrayListChallenge/MobilePhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Arrays/ArrayResizeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Arrays/ArrayResizeDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Arrays/Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Arrays/Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Arrays/ArraysChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Arrays/ArraysChallenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Arrays/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Arrays/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Arrays/MinimumElementChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Arrays/MinimumElementChallenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Arrays/ReferencesVsValueTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Arrays/ReferencesVsValueTypes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Arrays/ReverseArrayChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Arrays/ReverseArrayChallenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/AutoBoxingAndUnboxing/Challenge/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/AutoBoxingAndUnboxing/Challenge/Branch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/AutoBoxingAndUnboxing/Challenge/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/AutoBoxingAndUnboxing/Challenge/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/AutoBoxingAndUnboxing/IntClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/AutoBoxingAndUnboxing/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Class/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Class/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Composition/Bed.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Composition/Bed.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Composition/Bedroom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Composition/Bedroom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Composition/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Composition/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Composition/Case.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Composition/Case.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Composition/Ceiling.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Composition/Ceiling.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Composition/Dimensions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Composition/Dimensions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Composition/Lamp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Composition/Lamp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Composition/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Composition/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Composition/Monitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Composition/Monitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Composition/Motherboard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Composition/Motherboard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Composition/PC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Composition/PC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Composition/Resolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Composition/Resolution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Composition/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Composition/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Composition/Wall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Composition/Wall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Constructor1/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Constructor1/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Constructor1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Constructor1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Constructor2/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Constructor2/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Constructor2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Constructor2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Constructor2/VipPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Constructor2/VipPerson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Encapsulation/Challenge/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Encapsulation/Challenge/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Encapsulation/Challenge/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Encapsulation/Challenge/Printer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Encapsulation/EnhancedPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Encapsulation/EnhancedPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Encapsulation/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Encapsulation/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Encapsulation/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Encapsulation/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Generic/Challenge/BaseballPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Generic/Challenge/BaseballPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Generic/Challenge/FootballPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Generic/Challenge/FootballPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Generic/Challenge/League.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Generic/Challenge/League.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Generic/Challenge/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Generic/Challenge/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Generic/Challenge/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Generic/Challenge/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Generic/Challenge/SoccerPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Generic/Challenge/SoccerPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Generic/Challenge/Team.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Generic/Challenge/Team.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Generic/Example/BaseballPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Generic/Example/BaseballPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Generic/Example/FootballPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Generic/Example/FootballPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Generic/Example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Generic/Example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Generic/Example/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Generic/Example/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Generic/Example/SoccerPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Generic/Example/SoccerPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Generic/Example/Team.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Generic/Example/Team.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Generic/Introduction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Generic/Introduction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Inheritance/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Inheritance/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Inheritance/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Inheritance/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Inheritance/Fish.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Inheritance/Fish.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Inheritance/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Inheritance/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/InnerClasses/Button$OnClickListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/InnerClasses/Button.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/InnerClasses/Challenge/Album$SongList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/InnerClasses/Challenge/Album.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/InnerClasses/Challenge/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/InnerClasses/Challenge/Song.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/InnerClasses/Gearbox$Gear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/InnerClasses/Gearbox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/InnerClasses/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/InnerClasses/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Interface/Challenge/ISaveable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Interface/Challenge/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Interface/Challenge/Monster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Interface/Challenge/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Interface/DeskPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Interface/Exercise/Apparatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Interface/Exercise/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Interface/Exercise/Pc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Interface/ITelephone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Interface/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Interface/MobilePhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Lec/DigitSumChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Lec/DigitSumChallenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Lec/ForStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Lec/ForStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Lec/MinAndMaxChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Lec/MinAndMaxChallenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Lec/NumberOfDaysInMonth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Lec/NumberOfDaysInMonth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Lec/Overload.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Lec/Overload.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Lec/Switch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Lec/Switch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Lec/WhileLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Lec/WhileLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Lec/getDurationString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Lec/getDurationString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/LinkedList/Challenge/Album.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/LinkedList/Challenge/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/LinkedList/Challenge/Song.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/LinkedList/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/LinkedList/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/LinkedList/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Polymorphism/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Polymorphism/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Polymorphism/Ford.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Polymorphism/Ford.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Polymorphism/Forgetable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Polymorphism/Forgetable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Polymorphism/Holden.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Polymorphism/Holden.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Polymorphism/IndependenceDay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Polymorphism/IndependenceDay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Polymorphism/Jaws.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Polymorphism/Jaws.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Polymorphism/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Polymorphism/Main1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Polymorphism/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Polymorphism/Main2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Polymorphism/MazeRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Polymorphism/MazeRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Polymorphism/Mitsubishi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Polymorphism/Mitsubishi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Polymorphism/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Polymorphism/Movie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Polymorphism/StarWars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/Polymorphism/StarWars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/ReferenceObjectInstanceClass/House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy_Java/Lectures/ReferenceObjectInstanceClass/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/final_lec/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/final_lec/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/final_lec/SomeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/final_lec/SomeClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +244,7 @@
       <recent name="Ex01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Introduction">
+  <component name="RunManager" selected="Application.exercise">
     <configuration name="Introduction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lectures.generic.Introduction" />
       <module name="Udemy_Java" />
@@ -241,11 +259,11 @@
       </method>
     </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lectures.Generic.Example.Main" />
+      <option name="MAIN_CLASS_NAME" value="lectures.final_lec.Main" />
       <module name="Udemy_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lectures.Generic.Example.*" />
+          <option name="PATTERN" value="lectures.final_lec.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -254,24 +272,11 @@
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lectures.Generic.Challenge.Main" />
+      <option name="MAIN_CLASS_NAME" value="lectures.lambda.buttonFX.Main" />
       <module name="Udemy_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lectures.Generic.Challenge.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lectures.Abstract.Main" />
-      <module name="Udemy_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lectures.Abstract.*" />
+          <option name="PATTERN" value="lectures.lambda.buttonFX.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,11 +285,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.abstract_lec.challenge.Main" />
+      <option name="MAIN_CLASS_NAME" value="lectures.lambda.lecture.Main" />
       <module name="Udemy_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.abstract_lec.challenge.*" />
+          <option name="PATTERN" value="lectures.lambda.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -331,13 +336,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.lambda.lecture.exercise" />
+      <module name="Udemy_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.lambda.lecture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Introduction" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.exercise" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Introduction" />
       </list>
     </recent_temporary>
   </component>
@@ -410,7 +428,8 @@
       <workItem from="1577565296082" duration="5311000" />
       <workItem from="1577606846463" duration="8079000" />
       <workItem from="1577726997839" duration="1407000" />
-      <workItem from="1577793072112" duration="1513000" />
+      <workItem from="1577793072112" duration="3541000" />
+      <workItem from="1577810746613" duration="5494000" />
     </task>
     <servers />
   </component>
@@ -438,10 +457,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="422" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1576433050549" />
-    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1577569658725">
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1577813458614">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1577569658725" />
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1577813458614" />
     <state x="499" y="194" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1577208377637">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -474,10 +493,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="872" y="130" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1536.824@0.0.1536.824" timestamp="1576616441008" />
-    <state x="518" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1577310474728">
+    <state x="518" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1577813892046">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="518" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1577310474728" />
+    <state x="518" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1577813892046" />
     <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576659305396">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -498,10 +517,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1577085270954" />
-    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1577084072958">
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1577831001754">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577084072958" />
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577831001754" />
     <state width="1493" height="283" key="GridCell.Tab.-1.bottom" timestamp="1577220872200">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -518,22 +537,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="283" key="GridCell.Tab.-1.right/0.0.1536.824@0.0.1536.824" timestamp="1577220872200" />
-    <state width="1493" height="212" key="GridCell.Tab.0.bottom" timestamp="1577632550417">
+    <state width="1493" height="212" key="GridCell.Tab.0.bottom" timestamp="1577832100680">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577632550417" />
-    <state width="1493" height="212" key="GridCell.Tab.0.center" timestamp="1577632550417">
+    <state width="1493" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577832100680" />
+    <state width="1493" height="212" key="GridCell.Tab.0.center" timestamp="1577832100680">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577632550417" />
-    <state width="1493" height="212" key="GridCell.Tab.0.left" timestamp="1577632550417">
+    <state width="1493" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577832100680" />
+    <state width="1493" height="212" key="GridCell.Tab.0.left" timestamp="1577832100680">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577632550417" />
-    <state width="1493" height="212" key="GridCell.Tab.0.right" timestamp="1577632550417">
+    <state width="1493" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577832100680" />
+    <state width="1493" height="212" key="GridCell.Tab.0.right" timestamp="1577832100680">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577632550417" />
+    <state width="1493" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577832100680" />
     <state width="1493" height="283" key="GridCell.Tab.1.bottom" timestamp="1577228367085">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -578,10 +597,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1577356964161" />
-    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1577793076228">
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1577810755574">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577793076228" />
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577810755574" />
     <state x="882" y="316" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1576349627958">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -594,6 +613,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="174" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1577573562797" />
+    <state x="209" y="40" key="new project wizard" timestamp="1577831031443">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="40" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1577831031443" />
     <state x="477" y="37" key="refactoring.ChangeSignatureDialog" timestamp="1575928306941">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

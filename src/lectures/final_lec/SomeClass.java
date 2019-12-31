@@ -5,8 +5,8 @@ package lectures.final_lec;
  */
 public class SomeClass {
 
-    private static int classCounter = 0;
-    public final int instanceNumber;
+    private  static int classCounter = 0;
+    public  int instanceNumber =4;
     private final String name;
 
 
