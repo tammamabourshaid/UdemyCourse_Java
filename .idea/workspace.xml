@@ -3,6 +3,151 @@
   <component name="ChangeListManager">
     <list default="true" id="6183f21d-eec4-4df4-b9b0-520f69e32458" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Cylinder/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/cylinder/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Cylinder/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/cylinder/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Cylinder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/cylinder/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/AreaCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/AreaCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/ComplexNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/ComplexNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/DiagonalStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/DiagonalStar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/EqualSumChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/EqualSumChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/EvenDigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/EvenDigitSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/FirstAndLastDigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/FirstAndLastDigitSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/GreatestCommonDivisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/GreatestCommonDivisor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/MinutesToYearsAndDaysCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/MinutesToYearsAndDaysCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/NumberToWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/NumberToWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/PlayingCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/PlayingCat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/PositiveNegativeZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/PositiveNegativeZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/SharedDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/SharedDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/SpeedConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/SpeedConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/SumChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/SumChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Examples/TeenNumberChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/examples/TeenNumberChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Inheritance/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/inheritance/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Inheritance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/inheritance/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Inheritance/Outlander.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/inheritance/Outlander.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingExercise/Inheritance/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/inheritance/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingExercise/OOP/Challenge1/Hamburger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/oop/challenge1/Hamburger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingExercise/OOP/Challenge1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/oop/challenge1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingExercise/OOP/Challenge2/DeluxeBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/oop/challenge2/DeluxeBurger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingExercise/OOP/Challenge2/Hamburger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/oop/challenge2/Hamburger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingExercise/OOP/Challenge2/HealthyBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/oop/challenge2/HealthyBurger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingExercise/OOP/Challenge2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_exercise/oop/challenge2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/Calc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise/InsertObjInArrays/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/insert_obj_in_arrays/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise/InsertObjInArrays/DataExe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/insert_obj_in_arrays/DataExe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise/Java01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/Java01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise/Java02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/Java02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise/Java03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/Java03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Abstract/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/abstract_lec/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Abstract/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/abstract_lec/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Abstract/CanFly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/abstract_lec/CanFly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Abstract/Challenge/ListItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/abstract_lec/challenge/ListItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Abstract/Challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/abstract_lec/challenge/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Abstract/Challenge/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/abstract_lec/challenge/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Abstract/Challenge/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/abstract_lec/challenge/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Abstract/Challenge/NodeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/abstract_lec/challenge/NodeList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Abstract/Challenge/SearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/abstract_lec/challenge/SearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Abstract/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/abstract_lec/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Abstract/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/abstract_lec/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Abstract/Parrot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/abstract_lec/Parrot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Abstract/Penguin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/abstract_lec/Penguin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Arrays/ArrayList/GroceryList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/arrays/array_list/GroceryList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Arrays/ArrayList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/arrays/array_list/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Arrays/ArrayListChallenge/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/arrays/array_list_challenge/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Arrays/ArrayListChallenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/arrays/array_list_challenge/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Arrays/ArrayListChallenge/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/arrays/array_list_challenge/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Arrays/ArrayResizeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/arrays/ArrayResizeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Arrays/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/arrays/Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Arrays/ArraysChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/arrays/ArraysChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Arrays/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/arrays/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Arrays/MinimumElementChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/arrays/MinimumElementChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Arrays/ReferencesVsValueTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/arrays/ReferencesVsValueTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Arrays/ReverseArrayChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/arrays/ReverseArrayChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/AutoBoxingAndUnboxing/Challenge/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/auto_boxing_and_unboxing/Challenge/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/AutoBoxingAndUnboxing/Challenge/Branch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/auto_boxing_and_unboxing/Challenge/Branch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/AutoBoxingAndUnboxing/Challenge/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/auto_boxing_and_unboxing/Challenge/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/AutoBoxingAndUnboxing/Challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/auto_boxing_and_unboxing/Challenge/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/AutoBoxingAndUnboxing/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/auto_boxing_and_unboxing/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Class/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/class_lec/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Class/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/class_lec/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Composition/Bed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/composition/Bed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Composition/Bedroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/composition/Bedroom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Composition/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/composition/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Composition/Case.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/composition/Case.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Composition/Ceiling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/composition/Ceiling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Composition/Dimensions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/composition/Dimensions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Composition/Lamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/composition/Lamp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Composition/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/composition/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Composition/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/composition/Monitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Composition/Motherboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/composition/Motherboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Composition/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/composition/PC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Composition/Resolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/composition/Resolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Composition/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/composition/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Composition/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/composition/Wall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Constructor1/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/constructor1/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Constructor1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/constructor1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Constructor2/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/constructor2/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Constructor2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/constructor2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Constructor2/VipPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/constructor2/VipPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Encapsulation/Challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/encapsulation/challenge/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Encapsulation/Challenge/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/encapsulation/challenge/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Encapsulation/EnhancedPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/encapsulation/EnhancedPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Encapsulation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/encapsulation/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Encapsulation/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/encapsulation/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Generic/Challenge/BaseballPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/generic/challenge/BaseballPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Generic/Challenge/FootballPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/generic/challenge/FootballPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Generic/Challenge/League.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/generic/challenge/League.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Generic/Challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/generic/challenge/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Generic/Challenge/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/generic/challenge/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Generic/Challenge/SoccerPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/generic/challenge/SoccerPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Generic/Challenge/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/generic/challenge/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Generic/Example/BaseballPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/generic/example/BaseballPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Generic/Example/FootballPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/generic/example/FootballPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Generic/Example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/generic/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Generic/Example/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/generic/example/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Generic/Example/SoccerPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/generic/example/SoccerPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Generic/Example/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/generic/example/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Generic/Introduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/generic/Introduction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Inheritance/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/inheritance/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Inheritance/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/inheritance/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Inheritance/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/inheritance/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Inheritance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/inheritance/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/InnerClasses/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/inner_classes/Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/InnerClasses/Challenge/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/inner_classes/challenge/Album.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/InnerClasses/Challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/inner_classes/challenge/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/InnerClasses/Challenge/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/inner_classes/challenge/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/InnerClasses/Gearbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/inner_classes/Gearbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/InnerClasses/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/inner_classes/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Interface/Challenge/ISaveable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/interface_lec/challenge/ISaveable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Interface/Challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/interface_lec/challenge/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Interface/Challenge/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/interface_lec/challenge/Monster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Interface/Challenge/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/interface_lec/challenge/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Interface/DeskPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/interface_lec/DeskPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Interface/Exercise/Apparatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/interface_lec/exercise/Apparatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Interface/Exercise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/interface_lec/exercise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Interface/Exercise/Pc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/interface_lec/exercise/Pc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Interface/ITelephone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/interface_lec/ITelephone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Interface/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/interface_lec/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Interface/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/interface_lec/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Lec/DigitSumChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/lec/DigitSumChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Lec/ForStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/lec/ForStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Lec/MinAndMaxChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/lec/MinAndMaxChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Lec/NumberOfDaysInMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/lec/NumberOfDaysInMonth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Lec/Overload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/lec/Overload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Lec/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/lec/Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Lec/WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/lec/WhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Lec/getDurationString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/lec/getDurationString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/LinkedList/Challenge/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/linked_list/challenge/Album.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/LinkedList/Challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/linked_list/challenge/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/LinkedList/Challenge/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/linked_list/challenge/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/LinkedList/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/linked_list/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/LinkedList/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/linked_list/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/LinkedList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/linked_list/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Polymorphism/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/polymorphism/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/polymorphism/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/ReferenceObjectInstanceClass/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/reference_object_instance_class/House.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/ReferenceObjectInstanceClass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/reference_object_instance_class/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,11 +228,11 @@
   </component>
   <component name="RunManager" selected="Application.Introduction">
     <configuration name="Introduction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lectures.Generic.Introduction" />
+      <option name="MAIN_CLASS_NAME" value="lectures.generic.Introduction" />
       <module name="Udemy_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lectures.Generic.*" />
+          <option name="PATTERN" value="lectures.generic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +280,50 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lectures.Abstract.Challenge.Main" />
+      <option name="MAIN_CLASS_NAME" value="lectures.abstract_lec.challenge.Main" />
       <module name="Udemy_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lectures.Abstract.Challenge.*" />
+          <option name="PATTERN" value="lectures.abstract_lec.challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.generic.example.Main" />
+      <module name="Udemy_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.generic.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.generic.challenge.Main" />
+      <module name="Udemy_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.generic.challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.abstract_lec.Main" />
+      <module name="Udemy_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.abstract_lec.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,6 +409,8 @@
       <workItem from="1577539557172" duration="2694000" />
       <workItem from="1577565296082" duration="5311000" />
       <workItem from="1577606846463" duration="8079000" />
+      <workItem from="1577726997839" duration="1407000" />
+      <workItem from="1577793072112" duration="1513000" />
     </task>
     <servers />
   </component>
@@ -392,10 +578,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1577356964161" />
-    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1577606876793">
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1577793076228">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577606876793" />
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577793076228" />
     <state x="882" y="316" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1576349627958">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -425,1002 +611,1002 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint type="java-method">
-          <url>file://$PROJECT_DIR$/src/CodingExercise/Examples/DiagonalStar.java</url>
+          <url>file://$PROJECT_DIR$/src/coding_exercise/examples/DiagonalStar.java</url>
           <line>7</line>
-          <properties class="CodingExercise.Examples.DiagonalStar" method="printSquareStar">
+          <properties class="coding_exercise.examples.DiagonalStar" method="printSquareStar">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="114" />
         </line-breakpoint>
         <line-breakpoint type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lectures/Lec/MinAndMaxChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/lec/MinAndMaxChallenge.java</url>
           <line>5</line>
-          <properties class="Lectures.Lec.MinAndMaxChallenge" method="main">
+          <properties class="lectures.lec.MinAndMaxChallenge" method="main">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="150" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>8</line>
-          <properties class="Lectures.Polymorphism.Car" method="&lt;init&gt;">
+          <properties class="lectures.polymorphism.Car" method="&lt;init&gt;">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="162" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>15</line>
-          <properties class="Lectures.Polymorphism.Car" method="getCylinders">
+          <properties class="lectures.polymorphism.Car" method="getCylinders">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="169" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>19</line>
-          <properties class="Lectures.Polymorphism.Car" method="getName">
+          <properties class="lectures.polymorphism.Car" method="getName">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="171" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>23</line>
-          <properties class="Lectures.Polymorphism.Car" method="startEngine">
+          <properties class="lectures.polymorphism.Car" method="startEngine">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="173" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>27</line>
-          <properties class="Lectures.Polymorphism.Car" method="accelerate">
+          <properties class="lectures.polymorphism.Car" method="accelerate">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="175" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>31</line>
-          <properties class="Lectures.Polymorphism.Car" method="brake">
+          <properties class="lectures.polymorphism.Car" method="brake">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="177" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>38</line>
-          <properties class="Lectures.Polymorphism.Mitsubishi" method="&lt;init&gt;">
+          <properties class="lectures.polymorphism.Mitsubishi" method="&lt;init&gt;">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="180" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>43</line>
-          <properties class="Lectures.Polymorphism.Mitsubishi" method="startEngine">
+          <properties class="lectures.polymorphism.Mitsubishi" method="startEngine">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="182" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>48</line>
-          <properties class="Lectures.Polymorphism.Mitsubishi" method="accelerate">
+          <properties class="lectures.polymorphism.Mitsubishi" method="accelerate">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="185" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>53</line>
-          <properties class="Lectures.Polymorphism.Mitsubishi" method="brake">
+          <properties class="lectures.polymorphism.Mitsubishi" method="brake">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="187" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>60</line>
-          <properties class="Lectures.Polymorphism.Holden" method="&lt;init&gt;">
+          <properties class="lectures.polymorphism.Holden" method="&lt;init&gt;">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="190" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>65</line>
-          <properties class="Lectures.Polymorphism.Holden" method="startEngine">
+          <properties class="lectures.polymorphism.Holden" method="startEngine">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="192" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>70</line>
-          <properties class="Lectures.Polymorphism.Holden" method="accelerate">
+          <properties class="lectures.polymorphism.Holden" method="accelerate">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="194" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>75</line>
-          <properties class="Lectures.Polymorphism.Holden" method="brake">
+          <properties class="lectures.polymorphism.Holden" method="brake">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="196" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>82</line>
-          <properties class="Lectures.Polymorphism.Ford" method="&lt;init&gt;">
+          <properties class="lectures.polymorphism.Ford" method="&lt;init&gt;">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="199" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>87</line>
-          <properties class="Lectures.Polymorphism.Ford" method="startEngine">
+          <properties class="lectures.polymorphism.Ford" method="startEngine">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="201" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>92</line>
-          <properties class="Lectures.Polymorphism.Ford" method="accelerate">
+          <properties class="lectures.polymorphism.Ford" method="accelerate">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="203" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>97</line>
-          <properties class="Lectures.Polymorphism.Ford" method="brake">
+          <properties class="lectures.polymorphism.Ford" method="brake">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="205" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>104</line>
-          <properties class="Lectures.Polymorphism.Main2" method="main">
+          <properties class="lectures.polymorphism.Main2" method="main">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="208" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/Arrays.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/Arrays.java</url>
           <line>7</line>
-          <properties class="Lectures.Arrays.Arrays" method="main">
+          <properties class="lectures.arrays.Arrays" method="main">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="227" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/Arrays.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/Arrays.java</url>
           <line>16</line>
-          <properties class="Lectures.Arrays.Arrays" method="getIntegers">
+          <properties class="lectures.arrays.Arrays" method="getIntegers">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="232" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/Arrays.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/Arrays.java</url>
           <line>27</line>
-          <properties class="Lectures.Arrays.Arrays" method="getAverage">
+          <properties class="lectures.arrays.Arrays" method="getAverage">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="238" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReferencesVsValueTypes.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReferencesVsValueTypes.java</url>
           <line>36</line>
-          <properties class="Lectures.Arrays.ReferencesVsValueTypes" method="modifyArray">
+          <properties class="lectures.arrays.ReferencesVsValueTypes" method="modifyArray">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="265" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/MinimumElementChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/MinimumElementChallenge.java</url>
           <line>7</line>
-          <properties class="Lectures.Arrays.MinimumElementChallenge" method="main">
+          <properties class="lectures.arrays.MinimumElementChallenge" method="main">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="272" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/MinimumElementChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/MinimumElementChallenge.java</url>
           <line>19</line>
-          <properties class="Lectures.Arrays.MinimumElementChallenge" method="readIntegers">
+          <properties class="lectures.arrays.MinimumElementChallenge" method="readIntegers">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="279" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/MinimumElementChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/MinimumElementChallenge.java</url>
           <line>32</line>
-          <properties class="Lectures.Arrays.MinimumElementChallenge" method="findMin">
+          <properties class="lectures.arrays.MinimumElementChallenge" method="findMin">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="287" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReverseArrayChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReverseArrayChallenge.java</url>
           <line>4</line>
-          <properties class="Lectures.Arrays.ReverseArrayChallenge" method="main">
+          <properties class="lectures.arrays.ReverseArrayChallenge" method="main">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="295" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReverseArrayChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReverseArrayChallenge.java</url>
           <line>15</line>
-          <properties class="Lectures.Arrays.ReverseArrayChallenge" method="reverse">
+          <properties class="lectures.arrays.ReverseArrayChallenge" method="reverse">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="300" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CodingExercise/Examples/DiagonalStar.java</url>
+          <url>file://$PROJECT_DIR$/src/coding_exercise/examples/DiagonalStar.java</url>
           <line>9</line>
           <option name="timeStamp" value="115" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CodingExercise/Examples/DiagonalStar.java</url>
+          <url>file://$PROJECT_DIR$/src/coding_exercise/examples/DiagonalStar.java</url>
           <line>10</line>
           <option name="timeStamp" value="116" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CodingExercise/Examples/DiagonalStar.java</url>
+          <url>file://$PROJECT_DIR$/src/coding_exercise/examples/DiagonalStar.java</url>
           <line>11</line>
           <option name="timeStamp" value="117" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CodingExercise/Examples/DiagonalStar.java</url>
+          <url>file://$PROJECT_DIR$/src/coding_exercise/examples/DiagonalStar.java</url>
           <line>14</line>
           <option name="timeStamp" value="118" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CodingExercise/Examples/DiagonalStar.java</url>
+          <url>file://$PROJECT_DIR$/src/coding_exercise/examples/DiagonalStar.java</url>
           <line>15</line>
           <option name="timeStamp" value="119" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CodingExercise/Examples/DiagonalStar.java</url>
+          <url>file://$PROJECT_DIR$/src/coding_exercise/examples/DiagonalStar.java</url>
           <line>16</line>
           <option name="timeStamp" value="120" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CodingExercise/Examples/DiagonalStar.java</url>
+          <url>file://$PROJECT_DIR$/src/coding_exercise/examples/DiagonalStar.java</url>
           <line>17</line>
           <option name="timeStamp" value="121" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CodingExercise/Examples/DiagonalStar.java</url>
+          <url>file://$PROJECT_DIR$/src/coding_exercise/examples/DiagonalStar.java</url>
           <line>18</line>
           <option name="timeStamp" value="122" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CodingExercise/Examples/DiagonalStar.java</url>
+          <url>file://$PROJECT_DIR$/src/coding_exercise/examples/DiagonalStar.java</url>
           <line>19</line>
           <option name="timeStamp" value="123" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CodingExercise/Examples/DiagonalStar.java</url>
+          <url>file://$PROJECT_DIR$/src/coding_exercise/examples/DiagonalStar.java</url>
           <line>20</line>
           <option name="timeStamp" value="124" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CodingExercise/Examples/DiagonalStar.java</url>
+          <url>file://$PROJECT_DIR$/src/coding_exercise/examples/DiagonalStar.java</url>
           <line>21</line>
           <option name="timeStamp" value="125" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CodingExercise/Examples/DiagonalStar.java</url>
+          <url>file://$PROJECT_DIR$/src/coding_exercise/examples/DiagonalStar.java</url>
           <line>22</line>
           <option name="timeStamp" value="126" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Lec/MinAndMaxChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/lec/MinAndMaxChallenge.java</url>
           <line>46</line>
           <option name="timeStamp" value="127" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Lec/MinAndMaxChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/lec/MinAndMaxChallenge.java</url>
           <line>45</line>
           <option name="timeStamp" value="128" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Lec/MinAndMaxChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/lec/MinAndMaxChallenge.java</url>
           <line>42</line>
           <option name="timeStamp" value="129" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Lec/MinAndMaxChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/lec/MinAndMaxChallenge.java</url>
           <line>39</line>
           <option name="timeStamp" value="130" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Lec/MinAndMaxChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/lec/MinAndMaxChallenge.java</url>
           <line>38</line>
           <option name="timeStamp" value="131" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Lec/MinAndMaxChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/lec/MinAndMaxChallenge.java</url>
           <line>35</line>
           <option name="timeStamp" value="132" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Lec/MinAndMaxChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/lec/MinAndMaxChallenge.java</url>
           <line>34</line>
           <option name="timeStamp" value="133" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Lec/MinAndMaxChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/lec/MinAndMaxChallenge.java</url>
           <line>31</line>
           <option name="timeStamp" value="134" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Lec/MinAndMaxChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/lec/MinAndMaxChallenge.java</url>
           <line>30</line>
           <option name="timeStamp" value="135" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Lec/MinAndMaxChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/lec/MinAndMaxChallenge.java</url>
           <line>28</line>
           <option name="timeStamp" value="136" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Lec/MinAndMaxChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/lec/MinAndMaxChallenge.java</url>
           <line>27</line>
           <option name="timeStamp" value="137" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Lec/MinAndMaxChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/lec/MinAndMaxChallenge.java</url>
           <line>26</line>
           <option name="timeStamp" value="138" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Lec/MinAndMaxChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/lec/MinAndMaxChallenge.java</url>
           <line>25</line>
           <option name="timeStamp" value="139" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Lec/MinAndMaxChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/lec/MinAndMaxChallenge.java</url>
           <line>24</line>
           <option name="timeStamp" value="140" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Lec/MinAndMaxChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/lec/MinAndMaxChallenge.java</url>
           <line>22</line>
           <option name="timeStamp" value="141" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Lec/MinAndMaxChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/lec/MinAndMaxChallenge.java</url>
           <line>20</line>
           <option name="timeStamp" value="142" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Lec/MinAndMaxChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/lec/MinAndMaxChallenge.java</url>
           <line>18</line>
           <option name="timeStamp" value="143" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Lec/MinAndMaxChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/lec/MinAndMaxChallenge.java</url>
           <line>17</line>
           <option name="timeStamp" value="144" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Lec/MinAndMaxChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/lec/MinAndMaxChallenge.java</url>
           <line>11</line>
           <option name="timeStamp" value="147" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Lec/MinAndMaxChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/lec/MinAndMaxChallenge.java</url>
           <line>9</line>
           <option name="timeStamp" value="148" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Lec/MinAndMaxChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/lec/MinAndMaxChallenge.java</url>
           <line>7</line>
           <option name="timeStamp" value="149" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Lec/MinAndMaxChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/lec/MinAndMaxChallenge.java</url>
           <line>4</line>
           <option name="timeStamp" value="151" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Lec/MinAndMaxChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/lec/MinAndMaxChallenge.java</url>
           <line>10</line>
           <option name="timeStamp" value="153" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Lec/MinAndMaxChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/lec/MinAndMaxChallenge.java</url>
           <line>12</line>
           <option name="timeStamp" value="154" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Lec/MinAndMaxChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/lec/MinAndMaxChallenge.java</url>
           <line>15</line>
           <option name="timeStamp" value="155" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>2</line>
           <option name="timeStamp" value="156" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>9</line>
           <option name="timeStamp" value="164" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>10</line>
           <option name="timeStamp" value="165" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>11</line>
           <option name="timeStamp" value="167" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>12</line>
           <option name="timeStamp" value="168" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>16</line>
           <option name="timeStamp" value="170" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>20</line>
           <option name="timeStamp" value="172" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>24</line>
           <option name="timeStamp" value="174" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>28</line>
           <option name="timeStamp" value="176" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>32</line>
           <option name="timeStamp" value="178" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>36</line>
           <option name="timeStamp" value="179" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>39</line>
           <option name="timeStamp" value="181" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>44</line>
           <option name="timeStamp" value="184" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>49</line>
           <option name="timeStamp" value="186" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>54</line>
           <option name="timeStamp" value="188" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>58</line>
           <option name="timeStamp" value="189" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>61</line>
           <option name="timeStamp" value="191" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>66</line>
           <option name="timeStamp" value="193" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>71</line>
           <option name="timeStamp" value="195" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>76</line>
           <option name="timeStamp" value="197" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>80</line>
           <option name="timeStamp" value="198" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>83</line>
           <option name="timeStamp" value="200" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>88</line>
           <option name="timeStamp" value="202" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>93</line>
           <option name="timeStamp" value="204" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>98</line>
           <option name="timeStamp" value="206" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>102</line>
           <option name="timeStamp" value="207" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>121</line>
           <option name="timeStamp" value="210" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>122</line>
           <option name="timeStamp" value="211" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>123</line>
           <option name="timeStamp" value="212" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>124</line>
           <option name="timeStamp" value="213" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>126</line>
           <option name="timeStamp" value="214" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>127</line>
           <option name="timeStamp" value="215" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>128</line>
           <option name="timeStamp" value="216" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>129</line>
           <option name="timeStamp" value="217" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>131</line>
           <option name="timeStamp" value="218" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>132</line>
           <option name="timeStamp" value="219" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>133</line>
           <option name="timeStamp" value="220" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>134</line>
           <option name="timeStamp" value="221" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>136</line>
           <option name="timeStamp" value="222" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>137</line>
           <option name="timeStamp" value="223" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>138</line>
           <option name="timeStamp" value="224" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>139</line>
           <option name="timeStamp" value="225" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/Arrays.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/Arrays.java</url>
           <line>5</line>
           <option name="timeStamp" value="226" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/Arrays.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/Arrays.java</url>
           <line>8</line>
           <option name="timeStamp" value="228" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/Arrays.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/Arrays.java</url>
           <line>9</line>
           <option name="timeStamp" value="229" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/Arrays.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/Arrays.java</url>
           <line>10</line>
           <option name="timeStamp" value="230" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/Arrays.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/Arrays.java</url>
           <line>12</line>
           <option name="timeStamp" value="231" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/Arrays.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/Arrays.java</url>
           <line>17</line>
           <option name="timeStamp" value="233" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/Arrays.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/Arrays.java</url>
           <line>18</line>
           <option name="timeStamp" value="234" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/Arrays.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/Arrays.java</url>
           <line>20</line>
           <option name="timeStamp" value="235" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/Arrays.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/Arrays.java</url>
           <line>21</line>
           <option name="timeStamp" value="236" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/Arrays.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/Arrays.java</url>
           <line>24</line>
           <option name="timeStamp" value="237" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/Arrays.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/Arrays.java</url>
           <line>28</line>
           <option name="timeStamp" value="243" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/Arrays.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/Arrays.java</url>
           <line>29</line>
           <option name="timeStamp" value="244" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/Arrays.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/Arrays.java</url>
           <line>30</line>
           <option name="timeStamp" value="245" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/Arrays.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/Arrays.java</url>
           <line>33</line>
           <option name="timeStamp" value="246" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReferencesVsValueTypes.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReferencesVsValueTypes.java</url>
           <line>7</line>
           <option name="timeStamp" value="247" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReferencesVsValueTypes.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReferencesVsValueTypes.java</url>
           <line>8</line>
           <option name="timeStamp" value="248" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReferencesVsValueTypes.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReferencesVsValueTypes.java</url>
           <line>10</line>
           <option name="timeStamp" value="249" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReferencesVsValueTypes.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReferencesVsValueTypes.java</url>
           <line>11</line>
           <option name="timeStamp" value="250" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReferencesVsValueTypes.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReferencesVsValueTypes.java</url>
           <line>13</line>
           <option name="timeStamp" value="251" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReferencesVsValueTypes.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReferencesVsValueTypes.java</url>
           <line>15</line>
           <option name="timeStamp" value="252" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReferencesVsValueTypes.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReferencesVsValueTypes.java</url>
           <line>16</line>
           <option name="timeStamp" value="253" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReferencesVsValueTypes.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReferencesVsValueTypes.java</url>
           <line>18</line>
           <option name="timeStamp" value="254" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReferencesVsValueTypes.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReferencesVsValueTypes.java</url>
           <line>19</line>
           <option name="timeStamp" value="255" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReferencesVsValueTypes.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReferencesVsValueTypes.java</url>
           <line>21</line>
           <option name="timeStamp" value="256" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReferencesVsValueTypes.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReferencesVsValueTypes.java</url>
           <line>22</line>
           <option name="timeStamp" value="257" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReferencesVsValueTypes.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReferencesVsValueTypes.java</url>
           <line>24</line>
           <option name="timeStamp" value="258" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReferencesVsValueTypes.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReferencesVsValueTypes.java</url>
           <line>26</line>
           <option name="timeStamp" value="259" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReferencesVsValueTypes.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReferencesVsValueTypes.java</url>
           <line>27</line>
           <option name="timeStamp" value="260" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReferencesVsValueTypes.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReferencesVsValueTypes.java</url>
           <line>29</line>
           <option name="timeStamp" value="261" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReferencesVsValueTypes.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReferencesVsValueTypes.java</url>
           <line>30</line>
           <option name="timeStamp" value="262" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReferencesVsValueTypes.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReferencesVsValueTypes.java</url>
           <line>32</line>
           <option name="timeStamp" value="263" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReferencesVsValueTypes.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReferencesVsValueTypes.java</url>
           <line>33</line>
           <option name="timeStamp" value="264" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReferencesVsValueTypes.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReferencesVsValueTypes.java</url>
           <line>38</line>
           <option name="timeStamp" value="266" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReferencesVsValueTypes.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReferencesVsValueTypes.java</url>
           <line>39</line>
           <option name="timeStamp" value="269" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/MinimumElementChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/MinimumElementChallenge.java</url>
           <line>4</line>
           <option name="timeStamp" value="270" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/MinimumElementChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/MinimumElementChallenge.java</url>
           <line>5</line>
           <option name="timeStamp" value="271" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/MinimumElementChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/MinimumElementChallenge.java</url>
           <line>8</line>
           <option name="timeStamp" value="273" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/MinimumElementChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/MinimumElementChallenge.java</url>
           <line>9</line>
           <option name="timeStamp" value="274" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/MinimumElementChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/MinimumElementChallenge.java</url>
           <line>10</line>
           <option name="timeStamp" value="275" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/MinimumElementChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/MinimumElementChallenge.java</url>
           <line>12</line>
           <option name="timeStamp" value="276" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/MinimumElementChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/MinimumElementChallenge.java</url>
           <line>13</line>
           <option name="timeStamp" value="277" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/MinimumElementChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/MinimumElementChallenge.java</url>
           <line>15</line>
           <option name="timeStamp" value="278" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/MinimumElementChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/MinimumElementChallenge.java</url>
           <line>21</line>
           <option name="timeStamp" value="280" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/MinimumElementChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/MinimumElementChallenge.java</url>
           <line>23</line>
           <option name="timeStamp" value="281" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/MinimumElementChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/MinimumElementChallenge.java</url>
           <line>24</line>
           <option name="timeStamp" value="282" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/MinimumElementChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/MinimumElementChallenge.java</url>
           <line>25</line>
           <option name="timeStamp" value="283" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/MinimumElementChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/MinimumElementChallenge.java</url>
           <line>26</line>
           <option name="timeStamp" value="284" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/MinimumElementChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/MinimumElementChallenge.java</url>
           <line>27</line>
           <option name="timeStamp" value="285" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/MinimumElementChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/MinimumElementChallenge.java</url>
           <line>29</line>
           <option name="timeStamp" value="286" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/MinimumElementChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/MinimumElementChallenge.java</url>
           <line>34</line>
           <option name="timeStamp" value="288" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/MinimumElementChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/MinimumElementChallenge.java</url>
           <line>36</line>
           <option name="timeStamp" value="289" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/MinimumElementChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/MinimumElementChallenge.java</url>
           <line>37</line>
           <option name="timeStamp" value="290" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/MinimumElementChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/MinimumElementChallenge.java</url>
           <line>39</line>
           <option name="timeStamp" value="291" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/MinimumElementChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/MinimumElementChallenge.java</url>
           <line>40</line>
           <option name="timeStamp" value="292" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/MinimumElementChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/MinimumElementChallenge.java</url>
           <line>44</line>
           <option name="timeStamp" value="293" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReverseArrayChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReverseArrayChallenge.java</url>
           <line>6</line>
           <option name="timeStamp" value="296" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReverseArrayChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReverseArrayChallenge.java</url>
           <line>8</line>
           <option name="timeStamp" value="297" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReverseArrayChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReverseArrayChallenge.java</url>
           <line>10</line>
           <option name="timeStamp" value="298" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReverseArrayChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReverseArrayChallenge.java</url>
           <line>12</line>
           <option name="timeStamp" value="299" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReverseArrayChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReverseArrayChallenge.java</url>
           <line>17</line>
           <option name="timeStamp" value="301" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReverseArrayChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReverseArrayChallenge.java</url>
           <line>18</line>
           <option name="timeStamp" value="302" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReverseArrayChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReverseArrayChallenge.java</url>
           <line>19</line>
           <option name="timeStamp" value="305" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReverseArrayChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReverseArrayChallenge.java</url>
           <line>20</line>
           <option name="timeStamp" value="306" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReverseArrayChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReverseArrayChallenge.java</url>
           <line>21</line>
           <option name="timeStamp" value="307" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReverseArrayChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReverseArrayChallenge.java</url>
           <line>22</line>
           <option name="timeStamp" value="308" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReverseArrayChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReverseArrayChallenge.java</url>
           <line>23</line>
           <option name="timeStamp" value="309" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReverseArrayChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReverseArrayChallenge.java</url>
           <line>24</line>
           <option name="timeStamp" value="310" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lectures/Arrays/ReverseArrayChallenge.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/arrays/ReverseArrayChallenge.java</url>
           <line>27</line>
           <option name="timeStamp" value="311" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>3</line>
-          <properties field="engine" class="Lectures.Polymorphism.Car" />
+          <properties field="engine" class="lectures.polymorphism.Car" />
           <option name="timeStamp" value="157" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>5</line>
-          <properties field="name" class="Lectures.Polymorphism.Car" />
+          <properties field="name" class="lectures.polymorphism.Car" />
           <option name="timeStamp" value="159" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>4</line>
-          <properties field="cylinders" class="Lectures.Polymorphism.Car" />
+          <properties field="cylinders" class="lectures.polymorphism.Car" />
           <option name="timeStamp" value="160" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
-          <url>file://$PROJECT_DIR$/src/Lectures/Polymorphism/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/lectures/polymorphism/Main2.java</url>
           <line>6</line>
-          <properties field="wheels" class="Lectures.Polymorphism.Car" />
+          <properties field="wheels" class="lectures.polymorphism.Car" />
           <option name="timeStamp" value="161" />
         </line-breakpoint>
       </breakpoints>
